@@ -48,7 +48,7 @@ Full-stack разработчик и дизайнер, команда **Quorvox*
 | [w2-nanobloger](https://github.com/Quorvox/w2-nanobloger) | [открыть](https://quorvox.github.io/w2-nanobloger/) |
 | [w3-faq-api](https://github.com/Quorvox/w3-faq-api) | [открыть](https://quorvox.github.io/w3-faq-api/) |
 
-**Свои продукты:** [PlacePlay](https://github.com/Quorvox/PlacePlay) (CS2-платформа) · [VPNSait](https://github.com/Quorvox/VPNSait) · [animesait](https://github.com/Quorvox/animesait) · [game-optimizer](https://github.com/Quorvox/game-optimizer)
+**Копии больших проектов:** [PlacePlay](https://github.com/Quorvox/PlacePlay) (CS2-платформа) · [VPNSait](https://github.com/Quorvox/VPNSait) · [animesait](https://github.com/Quorvox/animesait) · [game-optimizer](https://github.com/Quorvox/game-optimizer)
 
 ### Статистика
 
